@@ -1,0 +1,8 @@
+com/test/inv/http/ctl/DBApiController.class
+com/test/inv/http/HttpApplication.class
+com/test/inv/http/SecurityConfiguration.class
+com/test/inv/http/dao/UserDataRepository.class
+com/test/inv/http/ctl/FirstRestController.class
+com/test/inv/service/ServiceObject.class
+com/test/inv/http/entity/UserData.class
+com/test/inv/http/ctl/ApiController.class

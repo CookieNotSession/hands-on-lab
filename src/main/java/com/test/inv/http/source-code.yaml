@@ -1,0 +1,8 @@
+resources:
+- name: source-code
+  type: git
+  source:
+    #uri: git@github.com:liangboyi/concourse-demo-web.git
+    branch: master
+    uri: https://github.com/CookieNotSession/concourse_test
+

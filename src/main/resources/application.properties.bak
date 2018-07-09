@@ -1,0 +1,14 @@
+env.server=DEV
+
+spring.datasource.url = jdbc:mysql://192.168.16.62:3306/cf_5ab47bce_6d48_410f_b640_118b7cd5b424?user=KCvGEfKr3SvrjUXe&password=bT6lGm08Gkv5oEkj
+spring.datasource.username = KCvGEfKr3SvrjUXe
+spring.datasource.password = bT6lGm08Gkv5oEkj
+
+spring.datasource.driver-class-name=com.mysql.jdbc.Driver
+spring.jpa.show-sql = true  
+spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQL5InnoDBDialect
+spring.jpa.hibernate.ddl-auto =update
+
+hibernate.dialect=org.hibernate.dialect.MySQLDialect
+hibernate.show_sql=true
+hibernate.format_sql=true
